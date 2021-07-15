@@ -3,7 +3,7 @@
 ## Stack
 
 - Ruby On Rails
-- Database - PostgreSQL
+- Database - MongoDB
 
 ## Getting Started
 
